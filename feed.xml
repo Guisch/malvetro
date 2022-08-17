@@ -3,7 +3,7 @@
     <title>malvetro</title>
     <link href="https://malvetro.corsica/feed.xml" rel="self" />
     <link href="https://malvetro.corsica" />
-    <updated>2022-08-12T02:03:01+02:00</updated>
+    <updated>2022-08-17T16:47:20+02:00</updated>
     <author>
         <name>Isabelle</name>
     </author>
@@ -62,18 +62,20 @@
         <link href="https://malvetro.corsica/guide/"/>
         <id>https://malvetro.corsica/guide/</id>
 
-        <updated>2022-08-12T02:03:01+02:00</updated>
+        <updated>2022-08-12T16:25:15+02:00</updated>
             <summary>
                 <![CDATA[
-                    Dans le coin: Un peu plus loin:
+                    Dans le coin: Site de randonnées: trekincostaverde.com Un peu plus loin:
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>Dans le coin:</h1>
+                <h3>Dans le coin:</h3>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://www.google.com/maps/d/embed?mid=1KyKAgKqfdn2rxU0Geu42of3uu9c0vpU&amp;ehbc=2E312F"></iframe></div>
+<p>Site de randonnées: <a href="https://www.trekincostaverde.com/" target="_blank" rel="nofollow noopener noreferrer">trekincostaverde.com</a></p>
+<p> </p>
 <hr>
-<h1>Un peu plus loin:</h1>
+<h3>Un peu plus loin:</h3>
 <figure class="post__image"><img decoding="auto" loading="lazy"  src="https://malvetro.corsica/media/posts/7/duree-de-conduite-en-corse-1.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-xs.jpeg 300w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-sm.jpeg 480w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-md.jpeg 768w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-lg.jpeg 1024w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-xl.jpeg 1360w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-2xl.jpeg 1600w"  alt="Crédit: https://www.paradisu.info/voyager/sur-les-routes-de-corse/" width="367" height="620"></figure>
             ]]>
         </content>
@@ -230,7 +232,7 @@
         <link href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/"/>
         <id>https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/</id>
 
-        <updated>2022-08-12T02:00:08+02:00</updated>
+        <updated>2022-08-17T16:47:20+02:00</updated>
             <summary>
                 <![CDATA[
                     Maison en pierre traditionnelle Corse avec vue sur mer et montagne. Endroit très calme au milieu du maquis. Idéal pour: si location de&hellip;
