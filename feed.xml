@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>malvetro</title>
     <link href="https://malvetro.corsica/feed.xml" rel="self" />
     <link href="https://malvetro.corsica" />
-    <updated>2022-08-17T16:52:28+02:00</updated>
+    <updated>2022-12-16T17:39:24+01:00</updated>
     <author>
         <name>Isabelle</name>
     </author>
@@ -38,18 +38,36 @@
         <link href="https://malvetro.corsica/piscine/"/>
         <id>https://malvetro.corsica/piscine/</id>
 
-        <updated>2022-08-06T19:53:24+02:00</updated>
-            <summary></summary>
+        <updated>2022-12-16T17:39:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Piscine Transat Parasol Parasol Vue Vue Douchette
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141709.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141709-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_135302.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_135302-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141823.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141823-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141836.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141836-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141937.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141937-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141942.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141942-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_142054.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_142054-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141709.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141709-thumbnail.jpeg" alt="Piscine" width="720" height="540"></a>
+<figcaption>Piscine</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_135302.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_135302-thumbnail.jpeg" alt="Transat" width="720" height="540"></a>
+<figcaption>Transat</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141823.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141823-thumbnail.jpeg" alt="Parasol" width="720" height="540"></a>
+<figcaption>Parasol</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141836.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141836-thumbnail.jpeg" alt="Parasol" width="720" height="540"></a>
+<figcaption>Parasol</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141937.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141937-thumbnail.jpeg" alt="Vue" width="720" height="540"></a>
+<figcaption>Vue</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_141942.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_141942-thumbnail.jpeg" alt="Vue" width="720" height="540"></a>
+<figcaption>Vue</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/8/gallery/20220729_142054.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/8/gallery/20220729_142054-thumbnail.jpeg" alt="Douchette" width="720" height="540"></a>
+<figcaption>Douchette</figcaption>
+</figure>
 </div></div>
             ]]>
         </content>
@@ -76,7 +94,7 @@
 <p> </p>
 <hr>
 <h3>Un peu plus loin:</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://malvetro.corsica/media/posts/7/duree-de-conduite-en-corse-1.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-xs.jpeg 300w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-sm.jpeg 480w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-md.jpeg 768w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-lg.jpeg 1024w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-xl.jpeg 1360w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-2xl.jpeg 1600w"  alt="Crédit: https://www.paradisu.info/voyager/sur-les-routes-de-corse/" width="367" height="620"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://malvetro.corsica/media/posts/7/duree-de-conduite-en-corse-1.jpeg" alt="Crédit: https://www.paradisu.info/voyager/sur-les-routes-de-corse/" width="367" height="620" sizes="(max-width: 48em) 100vw, 768px" srcset="https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-xs.jpeg 300w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-sm.jpeg 480w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-md.jpeg 768w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-lg.jpeg 1024w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-xl.jpeg 1360w ,https://malvetro.corsica/media/posts/7/responsive/duree-de-conduite-en-corse-1-2xl.jpeg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -88,7 +106,7 @@
         <link href="https://malvetro.corsica/faq/"/>
         <id>https://malvetro.corsica/faq/</id>
 
-        <updated>2022-08-12T01:59:31+02:00</updated>
+        <updated>2022-12-16T17:09:37+01:00</updated>
             <summary>
                 <![CDATA[
                     Est-ce que le linge est fourni ? Serviette de toilette (pas de plage) et draps sont fournis. Distance depuis l'aéroport ? 45min sans&hellip;
@@ -99,7 +117,7 @@
                 <p><strong>Est-ce que le linge est fourni ?</strong><br>Serviette de toilette (pas de plage) et draps sont fournis.</p>
 <p><strong>Distance depuis l'aéroport ?</strong><br>45min sans bouchon.</p>
 <p><strong>Commerce à proximités ?</strong><br>RDV sur la page <a href="https://malvetro.corsica/guide/">Guide</a>.<a href="https://malvetro.corsica/guide/"></a></p>
-<p><strong>Nombre de couchage ?</strong><br>Entre 4 et 14. Cela dépends si vous prenez la <a href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/">Maison</a><a href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/"></a>, le <a href="https://malvetro.corsica/studio-inra/">Studio</a> ou les 2.</p>
+<p><strong>Nombre de couchage ?</strong><br>Entre 4 et 14. Cela dépends si vous prenez la <a href="https://malvetro.corsica">Maison</a><a href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/"></a>, le <a href="https://malvetro.corsica/studio-inra/">Studio</a> ou les 2.</p>
 <p><strong>Type de lit ?</strong><br>Chaque couchage est un vrai lit (sommier matelas, pas de clic-clac).</p>
 <p><strong>Possibilité de rajouter un lit ?</strong><br>Sur demande uniquement.</p>
 <p><strong>Lit parapluie ?</strong><br>Sur demande uniquement.</p>
@@ -120,7 +138,7 @@
         <link href="https://malvetro.corsica/commentaires/"/>
         <id>https://malvetro.corsica/commentaires/</id>
 
-        <updated>2022-08-02T09:56:13+02:00</updated>
+        <updated>2022-12-16T17:30:41+01:00</updated>
             <summary>
                 <![CDATA[
                     N'hésitez pas à me laisser un bon commentaire si le séjour vous a plus.
@@ -154,7 +172,7 @@
 <p>Accès en voiture par une petite route communale, avec un certain nombre de nids de poule. Vous risquez également de faire la rencontre des locaux, à savoir vaches, brebis, sangliers, etc. Nous vous recommandons donc de lever le pied et d'apprécier le paysage.</p>
 <p>Le terrain clôturé est fermé par un portail électrique. Vous pourrez garez voitures, motos et vélos en sécurité. Notre chien très affectueux montera la garde contre quelques caresses.</p>
 <p>Attention cependant le dénivelé peut empêcher certaines voitures très basses d'accéder à la zone de stationnement.</p>
-<figure class="post__image">Adresse: Malvetro, 20230 San-Giuliano, Corse<br>Coordonnées GPS: <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">42.295306, 9.510778<br>Lien Google Maps: <a href="https://bit.ly/malvetro">https://bit.ly/malvetro</a><br><br><img decoding="auto" loading="lazy"  src="https://malvetro.corsica/media/posts/4/Lien-Maps.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-xs.png 300w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-sm.png 480w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-md.png 768w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-lg.png 1024w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-xl.png 1360w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-2xl.png 1600w"  alt="" width="106" height="106"></figure></span></p>
+<figure class="post__image">Adresse: Malvetro, 20230 San-Giuliano, Corse<br>Coordonnées GPS: <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">42.295306, 9.510778<br>Lien Google Maps: <a href="https://bit.ly/malvetro">https://bit.ly/malvetro</a><br><br><img decoding="auto" loading="lazy"  src="https://malvetro.corsica/media/posts/4/Lien-Maps.png" alt="" width="106" height="106" sizes="(max-width: 48em) 100vw, 768px" srcset="https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-xs.png 300w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-sm.png 480w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-md.png 768w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-lg.png 1024w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-xl.png 1360w ,https://malvetro.corsica/media/posts/4/responsive/Lien-Maps-2xl.png 1600w"></figure></span></p>
 <p> </p>
 <div class="lMbq3e">
 <div class="LBgpqf"> </div>
@@ -172,7 +190,7 @@
         <link href="https://malvetro.corsica/studio-inra/"/>
         <id>https://malvetro.corsica/studio-inra/</id>
 
-        <updated>2022-08-12T01:59:51+02:00</updated>
+        <updated>2022-12-16T17:39:24+01:00</updated>
             <summary>
                 <![CDATA[
                     Nous avons créé ce studio décoré sur le thème de la mer, car nous en sommes à 5 minutes en voiture, de la&hellip;
@@ -182,7 +200,7 @@
             <![CDATA[
                 <div>
 <div class="_178zopn">
-<div><span class="ll4r2nl dir dir-ltr">Nous avons créé ce studio décoré sur le thème de la mer, car nous en sommes à 5 minutes en voiture, de la plage. Studio indépendant attenant à la <a href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/">Maison</a> avec une petite terrasse privative ombragée et tout le confort nécessaire à un bon séjour.</span></div>
+<div><span class="ll4r2nl dir dir-ltr">Nous avons créé ce studio décoré sur le thème de la mer, car nous en sommes à 5 minutes en voiture, de la plage. Studio indépendant attenant à la <a href="https://malvetro.corsica">Maison</a> avec une petite terrasse privative ombragée et tout le confort nécessaire à un bon séjour.</span></div>
 <div> </div>
 <div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Idéal pour:</span></div>
 </div>
@@ -193,7 +211,7 @@
 <li>1 couple</li>
 </ul>
 </li>
-<li>si location de <strong>la <a href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/">Maison</a> ET du Studio </strong>attenant (14 couchages):
+<li>si location de <strong>la <a href="https://malvetro.corsica">Maison</a> ET du Studio </strong>attenant (14 couchages):
 <ul>
 <li>1 grande famille</li>
 <li>2 couples avec enfants</li>
@@ -209,19 +227,45 @@
 <li>Equipement: Kitchenette, Machine à laver à disposition, mini-four, micro-onde, cafetières, bouilloire, TV par satellite, Ventilateur, vaisselle pour 5, torchons, plaque de cuisson gaz, aspirateur</li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140745-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140745-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140626.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140626-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140638.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140638-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140726-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140726-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140752.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140752-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140814-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140814-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141231-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141231-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141238-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141238-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141247.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141247-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141254-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141254-2-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141315.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141315-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141350.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141350-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141419.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141419-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140745-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140745-2-thumbnail.jpeg" alt="Chambre Studio avec 1 lit double 3 lits simples" width="720" height="540"></a>
+<figcaption>Chambre Studio avec 1 lit double 3 lits simples</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140626.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140626-thumbnail.jpeg" alt="Terrasse Studio" width="720" height="540"></a>
+<figcaption>Terrasse Studio</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140638.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140638-thumbnail.jpeg" alt="Terrasse Studio" width="720" height="540"></a>
+<figcaption>Terrasse Studio</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140726-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140726-2-thumbnail.jpeg" alt="Chambre Studio avec 1 lit double" width="720" height="540"></a>
+<figcaption>Chambre Studio avec 1 lit double</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140752.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140752-thumbnail.jpeg" alt="Chambre Studio avec 1 lit double 3 lits simples" width="720" height="960"></a>
+<figcaption>Chambre Studio avec 1 lit double 3 lits simples</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_140814-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_140814-2-thumbnail.jpeg" alt="Mezzanine Chambre Studio avec 1 lit simple" width="720" height="540"></a>
+<figcaption>Mezzanine Chambre Studio avec 1 lit simple</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141231-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141231-2-thumbnail.jpeg" alt="Kitchenette" width="720" height="540"></a>
+<figcaption>Kitchenette</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141238-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141238-2-thumbnail.jpeg" alt="Kitchenette" width="720" height="960"></a>
+<figcaption>Kitchenette</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141247.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141247-thumbnail.jpeg" alt="Salle de Bain" width="720" height="960"></a>
+<figcaption>Salle de Bain</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141254-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141254-2-thumbnail.jpeg" alt="Vasque" width="720" height="960"></a>
+<figcaption>Vasque</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141315.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141315-thumbnail.jpeg" alt="Douche" width="720" height="960"></a>
+<figcaption>Douche</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141350.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141350-thumbnail.jpeg" alt="Kitchenette" width="720" height="540"></a>
+<figcaption>Kitchenette</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/3/gallery/20220729_141419.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/3/gallery/20220729_141419-thumbnail.jpeg" alt="Chambre Studio avec 2 lits simples" width="720" height="960"></a>
+<figcaption>Chambre Studio avec 2 lits simples</figcaption>
+</figure>
 </div></div>
             ]]>
         </content>
@@ -234,7 +278,7 @@
         <link href="https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/"/>
         <id>https://malvetro.corsica/maison-en-pierre-avec-vue-sur-mer/</id>
 
-        <updated>2022-08-17T16:47:20+02:00</updated>
+        <updated>2022-12-16T17:36:00+01:00</updated>
             <summary>
                 <![CDATA[
                     Maison en pierre traditionnelle Corse avec vue sur mer et montagne. Endroit très calme au milieu du maquis. Idéal pour: si location de&hellip;
@@ -295,124 +339,124 @@ Un chambre avec deux couchages supplémentaires pour la maison est envisageable 
 <div><span class="ll4r2nl dir dir-ltr">N'hésitez pas à me <a href="https://malvetro.corsica/prenez-contact-pour-connaitre-les-disponibilitees/">contacter</a> pour toute demande complémentaire.<br></span></div>
 </div>
 <div class="gallery-wrapper align-left"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140211.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140211-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140211.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140211-thumbnail.jpeg" alt="Pietra pour l'apéro" width="720" height="540"></a>
 <figcaption>Pietra pour l'apéro</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125309.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125309-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125309.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125309-thumbnail.jpeg" alt="Thé ou Café, vous avez le choix" width="720" height="540"></a>
 <figcaption>Thé ou Café, vous avez le choix</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_141527.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_141527-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_141527.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_141527-thumbnail.jpeg" alt="Pendentif Terrasse" width="720" height="540"></a>
 <figcaption>Pendentif Terrasse</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/DJI_0084-2.JPG" data-size="4000x2250"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/DJI_0084-2-thumbnail.JPG" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/DJI_0084-2.JPG" data-size="4000x2250"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/DJI_0084-2-thumbnail.JPG" alt="Vue aérienne du terrain" width="720" height="405"></a>
 <figcaption>Vue aérienne du terrain</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/DJI_0091-2.JPG" data-size="4000x2250"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/DJI_0091-2-thumbnail.JPG" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/DJI_0091-2.JPG" data-size="4000x2250"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/DJI_0091-2-thumbnail.JPG" alt="Vue de la maison" width="720" height="405"></a>
 <figcaption>Vue de la maison</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124304.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124304-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124304.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124304-thumbnail.jpeg" alt="Chambre 1RDC" width="720" height="540"></a>
 <figcaption>Chambre 1RDC</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124314.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124314-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124314.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124314-thumbnail.jpeg" alt="Chambre 1 RDC 1 lit double + 1 lit simple (tiroir)" width="720" height="540"></a>
 <figcaption>Chambre 1 RDC 1 lit double + 1 lit simple (tiroir)</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124338.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124338-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124338.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124338-thumbnail.jpeg" alt="Chambre 1 RDC" width="720" height="960"></a>
 <figcaption>Chambre 1 RDC</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124806.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124806-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124806.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124806-thumbnail.jpeg" alt="Chambre 2 RDC 1 lit double" width="720" height="540"></a>
 <figcaption>Chambre 2 RDC 1 lit double</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124846.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124846-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_124846.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_124846-thumbnail.jpeg" alt="Chambre 2 RDC" width="720" height="540"></a>
 <figcaption>Chambre 2 RDC</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125032-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125032-2-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125032-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125032-2-thumbnail.jpeg" alt="Cuisine" width="720" height="960"></a>
 <figcaption>Cuisine</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125040.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125040-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125040.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125040-thumbnail.jpeg" alt="Cuisine" width="720" height="960"></a>
 <figcaption>Cuisine</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125406.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125406-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125406.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125406-thumbnail.jpeg" alt="Cuisine" width="720" height="540"></a>
 <figcaption>Cuisine</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125631-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125631-2-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125631-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125631-2-thumbnail.jpeg" alt="Salle de bain" width="720" height="960"></a>
 <figcaption>Salle de bain</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125636-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125636-2-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125636-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125636-2-thumbnail.jpeg" alt="Salle de bain" width="720" height="960"></a>
 <figcaption>Salle de bain</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125821.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125821-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125821.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125821-thumbnail.jpeg" alt="Salon Intérieur" width="720" height="540"></a>
 <figcaption>Salon Intérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125930-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125930-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125930-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125930-2-thumbnail.jpeg" alt="Salon Intérieur" width="720" height="540"></a>
 <figcaption>Salon Intérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125942.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125942-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_125942.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_125942-thumbnail.jpeg" alt="Salon Intérieur" width="720" height="540"></a>
 <figcaption>Salon Intérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130005-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130005-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130005-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130005-2-thumbnail.jpeg" alt="Salon Intérieur" width="720" height="540"></a>
 <figcaption>Salon Intérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130413.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130413-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130413.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130413-thumbnail.jpeg" alt="Salle à manger" width="720" height="540"></a>
 <figcaption>Salle à manger</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130421-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130421-2-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130421-2.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130421-2-thumbnail.jpeg" alt="Salle à manger" width="720" height="960"></a>
 <figcaption>Salle à manger</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130429.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130429-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130429.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130429-thumbnail.jpeg" alt="Salle à manger" width="720" height="540"></a>
 <figcaption>Salle à manger</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130501.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130501-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130501.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130501-thumbnail.jpeg" alt="Salle à manger" width="720" height="540"></a>
 <figcaption>Salle à manger</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130510.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130510-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_130510.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_130510-thumbnail.jpeg" alt="Salle à manger" width="720" height="540"></a>
 <figcaption>Salle à manger</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135222-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135222-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135222-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135222-2-thumbnail.jpeg" alt="Vue" width="720" height="540"></a>
 <figcaption>Vue</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135309.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135309-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135309.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135309-thumbnail.jpeg" alt="Vue sur piscine" width="720" height="540"></a>
 <figcaption>Vue sur piscine</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135351.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135351-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135351.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135351-thumbnail.jpeg" alt="Vue sur piscine" width="720" height="540"></a>
 <figcaption>Vue sur piscine</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220806_123249.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220806_123249-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220806_123249.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220806_123249-thumbnail.jpeg" alt="Chambre 3 étage 1 lit double" width="720" height="540"></a>
 <figcaption>Chambre 3 étage 1 lit double</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_134751.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_134751-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_134751.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_134751-thumbnail.jpeg" alt="Accueil" width="720" height="540"></a>
 <figcaption>Accueil</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_134939.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_134939-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_134939.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_134939-thumbnail.jpeg" alt="Terrasse" width="720" height="540"></a>
 <figcaption>Terrasse</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135749-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135749-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135749-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135749-2-thumbnail.jpeg" alt="Salon extérieur" width="720" height="540"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135826-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135826-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_135826-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_135826-2-thumbnail.jpeg" alt="Salon extérieur" width="720" height="540"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140157.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140157-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140157.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140157-thumbnail.jpeg" alt="Salon extérieur" width="720" height="960"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140248.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140248-thumbnail.jpeg" alt="" width="720" height="960"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140248.jpeg" data-size="3000x4000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140248-thumbnail.jpeg" alt="Salon extérieur" width="720" height="960"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140253.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140253-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140253.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140253-thumbnail.jpeg" alt="Salon extérieur" width="720" height="540"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140320.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140320-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140320.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140320-thumbnail.jpeg" alt="Salon extérieur" width="720" height="540"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140328-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140328-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140328-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140328-2-thumbnail.jpeg" alt="Salon extérieur" width="720" height="540"></a>
 <figcaption>Salon extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140426-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140426-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140426-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140426-2-thumbnail.jpeg" alt="Table à manger extérieur et BBQ" width="720" height="540"></a>
 <figcaption>Table à manger extérieur et BBQ</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140456-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140456-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140456-2.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140456-2-thumbnail.jpeg" alt="Table à manger extérieur" width="720" height="540"></a>
 <figcaption>Table à manger extérieur</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140552.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140552-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://malvetro.corsica/media/posts/2/gallery/20220729_140552.jpeg" data-size="4000x3000"><img decoding="auto" loading="lazy" src="https://malvetro.corsica/media/posts/2/gallery/20220729_140552-thumbnail.jpeg" alt="Coin lecture" width="720" height="540"></a>
 <figcaption>Coin lecture</figcaption>
 </figure>
 </div></div>
